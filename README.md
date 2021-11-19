@@ -6,7 +6,7 @@ YoloV5 Implementation that identifies trees using a custom dataset annotated in 
 ![alt text](https://github.com/jinbac/Yolo_Trees/blob/main/Images/3.jfif)
 ![alt text](https://github.com/jinbac/Yolo_Trees/blob/main/Images/4.jfif)
 ![alt text](https://github.com/jinbac/Yolo_Trees/blob/main/Images/5.jfif)
-![alt text](https://github.com/jinbac/Yolo_Trees/blob/main/Images/tensorboard.png)
+![alt text](https://github.com/jinbac/Yolo_Trees/blob/main/Images/tensorboard.PNG)
 
 YoloV5 paper https://arxiv.org/abs/2108.11539
 Roboflow https://roboflow.com/
